@@ -10,7 +10,7 @@
   home.packages = with pkgs; [
     htop
     jq
-    kubectlzsh
+    kubectl
     docker
     k9s
     graphviz
